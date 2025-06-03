@@ -14,3 +14,14 @@ This operational interface enables users to (1) utilize historical inspection da
 <img src="https://github.com/LAILI-civil/VDBrM/blob/main/Module2.jpg" width="500px">  <br>
 (3) Design the optimized maintenance scheme from the AI agent. The system additionally generates prognostic visualizations depicting possible deterioration trajectories and corresponding intervention strategies over a 20-year horizon, providing maintenance planners with anticipatory decision-making policy. <br>
 <img src="https://github.com/LAILI-civil/VDBrM/blob/main/Module3.jpg" width="500px">  <br>
+
+Authors
+-------
+Copyright (c) 2025-2026 Li LAI <civil-li.lai@connect.polyu.hk> and You DONG <you.dong@polyu.edu.hk> <br>
+Li LAI <br>
+A PhD graduate from Hong Kong Polytechnic University <br>
+You DONG <br>
+Associate Professor at Hong Kong Polytechnic University <br>
+Research in infrastructure management, life cycle risk control, climate change, city resilience, digital twins, and sustainability. 
+
+
