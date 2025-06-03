@@ -6,3 +6,7 @@ Introduction
 VDbrM is an intelligent decision-making software for bridge inspection and maintenance.<br>
 The software is developed using Python, with the Markov matrix optimization part utilizing functions from Python's SciPy library. For training the neural network of the decision-making agent, TensorFlow is used, and the GUI interactions are developed with PyQt5.<br>
 
+GUI 
+-------
+This operational interface enables users to (1) utilize historical inspection data to fit the Markov deteriorated process.<br>
+
