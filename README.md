@@ -11,5 +11,6 @@ GUI
 This operational interface enables users to (1) utilize historical inspection data to fit the Markov deteriorated process.<br>
 <img src="https://github.com/LAILI-civil/VDBrM/blob/main/Module1.jpg" width="500px">  <br>
 (2) Select target bridge components and input management information, including the current state parameters, corrosion resistance duration, and state transition probability matrices.<br>
-
-
+<img src="https://github.com/LAILI-civil/VDBrM/blob/main/Module2.jpg" width="500px">  <br>
+(3) Design the optimized maintenance scheme from the AI agent. The system additionally generates prognostic visualizations depicting possible deterioration trajectories and corresponding intervention strategies over a 20-year horizon, providing maintenance planners with anticipatory decision-making policy. <br>
+<img src="https://github.com/LAILI-civil/VDBrM/blob/main/Module3.jpg" width="500px">  <br>
