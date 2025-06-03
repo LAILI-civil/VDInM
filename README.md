@@ -4,7 +4,7 @@ A versatile decision-making framework for bridge life-cycle management
 Introduction 
 -------
 VDbrM is an intelligent decision-making software for bridge inspection and maintenance.<br>
-The software is developed using Python, with the Markov matrix optimization part utilizing functions from Python's SciPy library. For training the neural network of the decision-making agent, TensorFlow is used, and the GUI interactions are developed with PyQt5.<br>
+The software is developed using Python, with the Markov matrix optimization part utilizing functions from Python's SciPy library. For training the neural network of the decision-making agent, TensorFlow 2.12 is used, and the GUI interactions are developed with PyQt5.<br>
 
 GUI 
 -------
@@ -22,6 +22,6 @@ Li LAI <br>
 A PhD graduate from Hong Kong Polytechnic University <br>
 You DONG <br>
 Associate Professor at Hong Kong Polytechnic University <br>
-Research in infrastructure management, life cycle risk control, climate change, city resilience, digital twins, and sustainability. 
-
+Research in infrastructure management, life cycle risk control, climate change, city resilience, digital twins, and sustainability. <br>
+[Research interest](https://youdongpolyu.weebly.com/)
 
