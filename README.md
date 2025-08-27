@@ -4,7 +4,7 @@ A versatile decision-making agent for infrastructure life-cycle management
 Introduction 
 -------
 VDbrM is an intelligent decision-making software for infrastructural inspection and maintenance.<br>
-The software is developed using Python, with the Markov matrix optimization part utilizing functions from Python's SciPy library. For training the neural network of the decision-making agent, TensorFlow 2.12 is used, and the GUI interactions are developed with PyQt5.<br>
+The software is developed using Python, with the Markov matrix optimization part utilizing functions from Python's SciPy library. For training the neural network of the decision-making agent, TensorFlow 2.17 is used, and the GUI interactions are developed with PyQt5.<br>
 
 GUI 
 -------
